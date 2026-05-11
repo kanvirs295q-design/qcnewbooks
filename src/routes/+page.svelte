@@ -1,0 +1,1 @@
+<h1 class="text-5xl text-red-700 bg-amber-300">Kanvir Singh</h1>
